@@ -7,7 +7,7 @@ default:
     favicon: www/favicon.png
 
   theme:
-    bootswatch: sandstone
+    bootswatch: flatly
     version: 5
 
   workflow:
